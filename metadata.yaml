@@ -1,5 +1,8 @@
 _repo: The-scarlet-car-the-Princess-Aline_69715
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69715-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: https://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69715#The-scarlet-car-the-Princess-Aline
 gutenberg_issued: '2023-01-05'
 identifiers:
   gutenberg: '69715'
